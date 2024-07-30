@@ -28,34 +28,43 @@ https://pixeller.net/
 <img src="./img/경매장 사진.png">
 
 ## 기술 스택
-- Front End
-    <br>
-    <img alt="Phaser" src="https://img.shields.io/badge/Phaser-C2EEFA">
-    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+## Front End
 
-- Back End
-    - Nest.js
-    - Spring Boot
-    - RabbitMQ
+[![Phaser](https://img.shields.io/badge/Phaser-3.55.2-FAA61A?style=flat&logo=phaser)](https://phaser.io/)
+[![React](https://img.shields.io/badge/React-17.0.2-61DAFB?style=flat&logo=react)](https://reactjs.org/)
 
-- Database
-    - AWS RDS: MySQL
+## Back End
 
-- Object Storage
-    - AWS S3
+[![Nest.js](https://img.shields.io/badge/Nest.js-7.6.15-E0234E?style=flat&logo=nestjs)](https://nestjs.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-6DB33F?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.8.16-FF6600?style=flat&logo=rabbitmq)](https://www.rabbitmq.com/)
 
-- 통신
-    - Socket.io
-    - STOMP
-    - HTTPS
-    - OpenVidu, Livekit
-    
-- CI/CD
-    - Github & Github Action
-    - AWS code deploy
+## Database
 
-- Secure
-    - AWS WAF & Shield
+[![AWS RDS: MySQL](https://img.shields.io/badge/AWS%20RDS-MySQL-527FFF?style=flat&logo=amazonaws)](https://aws.amazon.com/rds/)
+
+## Object Storage
+
+[![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws)](https://aws.amazon.com/s3/)
+
+## 통신
+
+[![Socket.io](https://img.shields.io/badge/Socket.io-4.1.2-010101?style=flat&logo=socket.io)](https://socket.io/)
+[![STOMP](https://img.shields.io/badge/STOMP-1.2-010101?style=flat&logo=stomp)](https://stomp.github.io/stomp-specification-1.2.html)
+[![HTTPS](https://img.shields.io/badge/HTTPS-2.0-0058B0?style=flat&logo=https)](https://developer.mozilla.org/ko/docs/Web/HTTP/HTTPS)
+[![OpenVidu](https://img.shields.io/badge/OpenVidu-2.17.0-3A3A3A?style=flat&logo=openvidu)](https://openvidu.io/)
+[![Livekit](https://img.shields.io/badge/Livekit-1.2-8D8D8D?style=flat&logo=livekit)](https://docs.livekit.io/)
+
+## CI/CD
+
+[![Github](https://img.shields.io/badge/Github-Actions-181717?style=flat&logo=github)](https://github.com/features/actions)
+[![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-527FFF?style=flat&logo=amazonaws)](https://aws.amazon.com/codedeploy/)
+
+## Secure
+
+[![AWS WAF](https://img.shields.io/badge/AWS%20WAF-527FFF?style=flat&logo=amazonaws)](https://aws.amazon.com/waf/)
+[![AWS Shield](https://img.shields.io/badge/AWS%20Shield-527FFF?style=flat&logo=amazonaws)](https://aws.amazon.com/shield/)
+
 
 ## 팀원 소개
 
