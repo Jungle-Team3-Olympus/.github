@@ -29,9 +29,10 @@ https://pixeller.net/
 
 ## 기술 스택
 - Front End
-    <img src="./img/phaser.png">
+    <img src="./img/phaser.png" style="display:inline-block">
+    <img src="./img/react logo.png" style="display:inline-block">
     - Phaser 3
-    <img src="./img/react logo.png">
+
     - React
 
 - Back End
