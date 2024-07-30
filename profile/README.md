@@ -29,7 +29,9 @@ https://pixeller.net/
 
 ## 기술 스택
 - Front End
+    <img src="./img/phaser.png">
     - Phaser 3
+    <img src="./img/react logo.png">
     - React
 
 - Back End
@@ -65,6 +67,11 @@ https://pixeller.net/
 |민사빈 |Backend            |https://github.com/sabinKrafton    |
 |최우성 |Frontend           |https://github.com/wooseong-choi   |
 |최재혁 |Frontend           |https://github.com/Digit24-dev     |
+
+## 프로젝트 산출물
+
+- Trello
+    - https://trello.com/b/VUpxKJBd/namanmu
 
 ## 실행 방법
 
