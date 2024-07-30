@@ -85,6 +85,9 @@ https://pixeller.net/
 - Trello
     - https://trello.com/b/VUpxKJBd/namanmu
 
+## 시연 영상
+<video src="https://youtu.be/awCNAZ6LixU">
+
 ## 실행 방법
 
 React: `npm start`
