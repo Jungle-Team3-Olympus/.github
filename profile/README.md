@@ -86,7 +86,7 @@ https://pixeller.net/
     - https://trello.com/b/VUpxKJBd/namanmu
 
 ## 시연 영상
-[![Video Label]](https://youtu.be/awCNAZ6LixU)
+[![Video Label](http://img.youtube.com/vi/awCNAZ6LixU/0.jpg)](https://youtu.be/awCNAZ6LixU)
 
 ## 실행 방법
 
