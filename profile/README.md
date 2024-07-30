@@ -30,7 +30,7 @@ https://pixeller.net/
 ## 기술 스택
 - Front End
     <img alt="Phaser" src="https://img.shields.io/badge/Phaser-C2EEFA">
-    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=61DAFB"/>
+    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
     - Phaser 3
 
     - React
