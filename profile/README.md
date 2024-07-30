@@ -27,6 +27,10 @@ https://pixeller.net/
 
 <img src="./img/경매장 사진.png">
 
+## 시스템 아키텍쳐
+
+<img src="./img/Mixed Architecture.png">
+
 ## 기술 스택
 ## Front End
 
